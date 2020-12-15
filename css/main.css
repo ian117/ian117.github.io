@@ -5,6 +5,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+
 section{
     padding: 100px;
 }
