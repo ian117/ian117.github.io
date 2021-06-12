@@ -517,6 +517,11 @@ img {
         width: 80%;
     }
 
+    .contact .content .contactInfo .contactInfoBx {
+        flex-direction: column;
+        align-items: center;
+    }
+
     .testimonial .content .testimonialBx {
         max-width: calc(100% - 20px);
         padding: 40px 20px;
@@ -538,6 +543,11 @@ img {
     header, header.sticky {
         padding: 20px 20px;
         z-index: 1000;
+    }
+
+    .contact .content .contactInfo .contactInfoBx {
+        flex-direction: column;
+        align-items: center;
     }
 
     .banner {
